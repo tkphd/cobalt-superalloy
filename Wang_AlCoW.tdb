@@ -1,5 +1,9 @@
 $ Database file written 2019- 3- 4
-$ From database: USER                    
+$ https://materialsdata.nist.gov/handle/11256/985
+$
+$ !!! This database has been modified from its original form !!!
+$ The disordered mu phase has been removed, for pycalphad compatibility.
+$
  ELEMENT /-   ELECTRON_GAS              0.0000E+00  0.0000E+00  0.0000E+00!
  ELEMENT VA   VACUUM                    0.0000E+00  0.0000E+00  0.0000E+00!
  ELEMENT AL   FCC_A1                    2.6982E+01  4.5773E+03  2.8322E+01!
